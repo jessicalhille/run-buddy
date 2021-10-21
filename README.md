@@ -8,7 +8,7 @@ HTML
 CSS
 
 ## Website
-http://lernantino.github.io/run-buddy/
+http://jessicalhille.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jessica Hille
